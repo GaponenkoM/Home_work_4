@@ -1,4 +1,4 @@
-﻿	/*BASE*/
+	/*BASE*/
 body{
 	background-image: url("../img/base.png");	
 }
@@ -60,6 +60,7 @@ body{
 	color: #41a1b9;
 	font-size: 10px;
 	font-family: Tahoma;
+	text-align: center;
 } 
 
 .logo{
